@@ -5,4 +5,5 @@
 ##### This is the little `<h5>` header, bigger than one of them
 ###### This may be the tiniest `<h6>` header
 
-Made by pulling a request and commiting changes with different header sizes !
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
