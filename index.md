@@ -11,3 +11,6 @@
 var myVar = "Hello, Mulearn!";
 var New = "Just me climbing the LEADERBOARD!!!"
 ```
+- [X] Sign Up into Github
+- [ ] Follow 5 tasks
+- [ ] Attain Github UI Familiarity
